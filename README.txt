@@ -1,15 +1,15 @@
 The CyNAPSE Neuromorphic Accelerator Verilog repository
 Authors: 
-Saunak Saha, Graduate student, Iowa State University
-Dr. Henry Duwe, Assistant Professor, Iowa State University
-Dr. Joseph Zambreno, Professor, Iowa State University
+1. Saunak Saha, Graduate student, Iowa State University
+2. Dr. Henry Duwe, Assistant Professor, Iowa State University
+3. Dr. Joseph Zambreno, Professor, Iowa State University
 
 
 This repository is part of a paper titled: 
 "An Adaptive Mmeory Management Strategy Towards Energy Efficient Machine Inference in Event-Driven Neuromorphic Accelerators" (2019)
 Please use the following to cite our paper: 
 "
------------
+Will be updated soon .. 
 "
 
 Architecture Hierarchy: (Refer to figure CyNAPSE_Arch.pdf)
