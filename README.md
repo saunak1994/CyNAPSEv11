@@ -16,7 +16,7 @@ Will be updated soon ..
 
 **Fully synthesizable modules:**
 
-1. (GexLeakUnit.v , GinLeakUnit.v, VmemLeakUnit.v, EPSCUnit.v, IPSCUnit.v, ThresholdUnit.v, SynapticIntegrationUnit.v) -> ConductanceLIFNeuronUnit.v : An implementation of the LIF Neuron with conductanc-based synapses and inhibitory+excitatory synapses for competitive learning [1]
+1. (GexLeakUnit.v , GinLeakUnit.v, VmemLeakUnit.v, EPSCUnit.v, IPSCUnit.v, ThresholdUnit.v, SynapticIntegrationUnit.v) -> ConductanceLIFNeuronUnit.v : An implementation of the LIF Neuron with conductanc-based synapses and inhibitory+excitatory synapses for competitive learning
 2. (InputFIFO.v) : An implementation of a circular FIFO queue used in our architecture as input, output and auxiliary queues 
 3. (InputRouter.v): An implementation of the Input Spike Routing Finite State Machine used in our architecture.
 4. (InternalRouter.v): An implementation of the internal event routing module to the auxiliary queue
