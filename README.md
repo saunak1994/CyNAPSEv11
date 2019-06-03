@@ -8,9 +8,9 @@ Authors:
 This repository is part of a paper titled: 
 "*An Adaptive Memory Management Strategy Towards Energy Efficient Machine Inference in Event-Driven Neuromorphic Accelerators*" (2019)
 Please use the following to cite our paper: 
-"
-Will be updated soon .. 
-"
+
+> S. Saha, H. Duwe and J. Zambreno, "An Adaptive Memory Management Strategy Towards Energy Efficient Machine Inference in Event-Driven Neuromorphic Accelerators", Proceedings of the International Conference on Application-specific Systems, Architectures and Processors (ASAP), July, 2019.
+
 
 **Architecture Hierarchy:** (Refer to figure CyNAPSE_Arch.pdf)
 
