@@ -9,7 +9,19 @@ This repository is part of a paper titled:
 "*An Adaptive Memory Management Strategy Towards Energy Efficient Machine Inference in Event-Driven Neuromorphic Accelerators*" (2019)
 Please use the following to cite our paper: 
 
-> S. Saha, H. Duwe and J. Zambreno, "An Adaptive Memory Management Strategy Towards Energy Efficient Machine Inference in Event-Driven Neuromorphic Accelerators", Proceedings of the International Conference on Application-specific Systems, Architectures and Processors (ASAP), July, 2019.
+> Saha, Saunak, Henry Duwe, and Joseph Zambreno. "An Adaptive Memory Management Strategy Towards Energy Efficient Machine Inference in Event-Driven Neuromorphic Accelerators." In 2019 IEEE 30th International Conference on Application-specific Systems, Architectures and Processors (ASAP), vol. 2160, pp. 197-205. IEEE, 2019.
+
+BibTex:
+
+> @inproceedings{saha2019adaptive,
+  title={An Adaptive Memory Management Strategy Towards Energy Efficient Machine Inference in Event-Driven Neuromorphic Accelerators},
+  author={Saha, Saunak and Duwe, Henry and Zambreno, Joseph},
+  booktitle={2019 IEEE 30th International Conference on Application-specific Systems, Architectures and Processors (ASAP)},
+  volume={2160},
+  pages={197--205},
+  year={2019},
+  organization={IEEE}
+}
 
 
 **Architecture Hierarchy:** (Refer to figure CyNAPSE_Arch.pdf)
