@@ -13,13 +13,13 @@ Please use the following to cite our paper:
 
 BibTex:
 
-> @inproceedings{saha2019adaptive,
-  title={An Adaptive Memory Management Strategy Towards Energy Efficient Machine Inference in Event-Driven Neuromorphic Accelerators},
-  author={Saha, Saunak and Duwe, Henry and Zambreno, Joseph},
-  booktitle={2019 IEEE 30th International Conference on Application-specific Systems, Architectures and Processors (ASAP)},
-  volume={2160},
-  pages={197--205},
-  year={2019},
+> @inproceedings{saha2019adaptive,  
+  title={An Adaptive Memory Management Strategy Towards Energy Efficient Machine Inference in Event-Driven Neuromorphic Accelerators},  
+  author={Saha, Saunak and Duwe, Henry and Zambreno, Joseph},  
+  booktitle={2019 IEEE 30th International Conference on Application-specific Systems, Architectures and Processors (ASAP)},  
+  volume={2160},  
+  pages={197--205},  
+  year={2019},  
   organization={IEEE}
 }
 
